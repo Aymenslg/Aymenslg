@@ -1,74 +1,140 @@
 <p align="center">
-  <img src="./Banner.png" alt="GitHub Banner" width="100%" />
+  <img src="./Banner.png" width="100%" alt="Banner"/>
 </p>
 
+<h1 align="center">
+Hi, I'm Sellag Aymen 👋
+</h1>
 
+<h3 align="center">
+🎓 AI & Data Engineering Student
+</h3>
 
-## 🎓 About Me
+<p align="center">
+Building AI solutions • Data Pipelines • Learning MLOps • Future AI Engineer 🚀
+</p>
 
-I'm a 4th-year AI & Data Engineering student passionate about building intelligent systems that solve real-world problems.
+---
 
-I enjoy working on:
+# 👨‍💻 About Me
+
+I'm a **4th-year AI & Data Engineering student** passionate about building intelligent systems that solve real-world problems.
+
+I enjoy transforming ideas into practical AI applications while continuously learning modern data technologies.
+
+Currently focusing on:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 📊 Data Engineering
 - ⚙️ MLOps
 - 💬 LLM Applications
-- 📈 Data Analytics
+- 🚀 Backend Development
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-
-- Python
-- SQL
-- Java
-
-
-### AI & Data
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-
-### Data Engineering
+# 🌱 Currently Learning
 
 - Apache Spark
 - Apache Kafka
 - Apache Airflow
-- PostgreSQL
-
-### Backend
-
 - FastAPI
-- Flask
-
-### DevOps
-
 - Docker
-- Git
-- Linux
+- TensorFlow
+- PyTorch
+- Retrieval-Augmented Generation (RAG)
+- MLOps
 
 ---
 
-## 🚀 Current Goals
+# 🛠 Tech Stack
 
-- Build production-ready AI projects
-- Learn advanced MLOps
-- Contribute to Open Source
-- Find an AI/Data Engineering Internship
+## 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql&perline=4"/>
+</p>
 
 ---
 
-## 📫 Contact
+## 🧠 AI & Data
 
-📧 Email: aymensellag1007@gmail.com
+<p align="center">
 
-💼 LinkedIn:
-https://www.linkedin.com/in/sellag-aymen-9b1a69366/
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2"/>
 
+</p>
+
+- Pandas
+- NumPy
+- Scikit-Learn
+
+---
+
+## 📊 Data Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres&perline=1"/>
+
+</p>
+
+- Apache Spark
+- Apache Kafka
+- Apache Airflow
+
+---
+
+## ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask&perline=2"/>
+
+</p>
+
+---
+
+## ☁ DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux&perline=3"/>
+
+</p>
+
+---
+
+# 🎯 Goals for 2026
+
+✅ Build high-quality AI projects
+
+✅ Master Data Engineering fundamentals
+
+✅ Learn Production MLOps
+
+✅ Contribute to Open Source
+
+✅ Secure an AI/Data Engineering Internship
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 AI Internship Hunter Agent | AI agent that finds and matches internship opportunities |
+| 💬 RAG Chatbot | Retrieval-Augmented Generation chatbot |
+| 📊 Data Pipeline | Airflow + Kafka + Spark pipeline |
+| 📄 CV Analyzer | AI-powered resume analysis |
+| 🎬 Recommendation System | Machine Learning recommendation engine |
+
+---
+
+# 📫 Connect With Me
+
+📍 Morocco
+
+📧 aymensellag1007@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/sellag-aymen-9b1a69366/
