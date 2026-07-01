@@ -52,7 +52,7 @@ Currently focusing on:
 ## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql&perline=4"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql&perline=4"/>
 </p>
 
 ---
@@ -135,6 +135,6 @@ Currently focusing on:
 
 📍 Morocco
 
-📧 aymensellag1007@gmail.com
+📧 Email   : aymensellag1007@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/sellag-aymen-9b1a69366/
