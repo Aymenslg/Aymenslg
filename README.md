@@ -59,8 +59,6 @@ Currently focusing on:
 
 ## 🧠 AI & Data
 
-## 🧠 AI & Data
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
