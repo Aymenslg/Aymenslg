@@ -59,29 +59,31 @@ Currently focusing on:
 
 ## 🧠 AI & Data
 
+## 🧠 AI & Data
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2"/>
-
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-- Pandas
-- NumPy
-- Scikit-Learn
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 Data Engineering
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres&perline=1"/>
-
+  <img src="https://skillicons.dev/icons?i=postgres,kafka,spark" />
 </p>
 
-- Apache Spark
-- Apache Kafka
-- Apache Airflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
 
 ---
 
