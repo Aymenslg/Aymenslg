@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
 # Hi, I'm Aymen 👋
 
 ## 🎓 About Me
