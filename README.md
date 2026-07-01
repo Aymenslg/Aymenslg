@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Aymen 👋
 
-<!--
-**Aymenslg/Aymenslg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+I'm a 4th-year AI & Data Engineering student passionate about building intelligent systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Engineering
+- ⚙️ MLOps
+- 💬 LLM Applications
+- 📈 Data Analytics
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- Python
+- SQL
+- Java
+
+
+### AI & Data
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+
+### Data Engineering
+
+- Apache Spark
+- Apache Kafka
+- Apache Airflow
+- PostgreSQL
+
+### Backend
+
+- FastAPI
+- Flask
+
+### DevOps
+
+- Docker
+- Git
+- Linux
+
+---
+
+## 🚀 Current Goals
+
+- Build production-ready AI projects
+- Learn advanced MLOps
+- Contribute to Open Source
+- Find an AI/Data Engineering Internship
+
+---
+
+## 📫 Contact
+
+📧 Email: aymensellag1007@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sellag-aymen-9b1a69366/
+
